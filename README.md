@@ -1,4 +1,4 @@
-# Python Chat Application
+# Python Chat Applications
 
 A modern chat application built with Python using socket programming and customtkinter for the GUI.
 
